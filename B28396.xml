@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Proceedings at the Sessions at the Old-Baily, August the 27th and 28th, 1679 containing the several tryals of a great number of notorious malefactors, and particularly of Peter du Val &amp; Tho. Thompson, condemned for murder, and all other remarkable occurences there : with the true number, names and respective crimes of all that received sentence of death, were burnt in the hand, together with six and thirty to be transported.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28396</idno><idno type="EEBO-CITATION">10599485</idno>
+  <idno type="VID">204736</idno>
+  <idno type="EEBO-PROQUEST">2240868781</idno>
+  
+            <idno type="STC">Wing P3562</idno>
+            <idno type="OCLC">10599485</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Proceedings at the Sessions at the Old-Baily, August the 27th and 28th, 1679 containing the several tryals of a great number of notorious malefactors, and particularly of Peter du Val &amp; Tho. Thompson, condemned for murder, and all other remarkable occurences there : with the true number, names and respective crimes of all that received sentence of death, were burnt in the hand, together with six and thirty to be transported.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Du Val, Peter, d. 1679.</term>
+               <term type="personal_name">Thompson, Thomas.</term>
+               <term type="topical_term">Trials --  England.</term>
+               <term type="topical_term">Criminal courts --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204736:1"/>
+            <pb n="1" facs="tcp:204736:1"/>
+            <head>THE PROCEEDINGS AT THE SESSIONS At the Old-Baily, <hi>August</hi> the 27th and 28th, 1679.</head>
+            <head type="sub">CONTAINING The several Tryals of a great number of notorious Malefactors, And particularly Of <hi>PETER du VAL</hi> &amp; <hi>THO. THOMPSON,</hi> Condemned for Murder: And all other remarkable Occurrences there. With the true Number, Names, &amp; respective Crimes of all that, received Sentence of Death, were Burnt in the Hand; together with Six and thirty to be Transported.</head>
+            <p>THis Sessions beginning at the <hi>Old-baily</hi> on <hi>Wednesday</hi> the 27th of this in<g ref="char:EOLhyphen"/>stant <hi>August,</hi> the first remarkable Tryal was of <hi>Peter Duval,</hi> formerly keeping a Tobacco and Strong-water-shop neer St. <hi>Giles's in the Fields,</hi> and <hi>Tompson</hi> a Taylor his Companion; who having left, or rather out-run their Trades, were lately turn'd Bullies: and having, according to the fashion of such people, associated themselves with two Baggages of the other Sex, going to take a walk, as they pretended, to <hi>Marybone,</hi> about ten or eleven a Clock in the Evening happened in <hi>So hoe</hi>-fields to come up to a parcel of honest poor men, who after their labour were refreshing themselves with a pot of Drink, and innocently sitting toge<g ref="char:EOLhyphen"/>ther at the door of an Ale-house: when they came near, <hi>Duval</hi> took upon him to examine them, asking <hi>Who was there?</hi> to which being answered, <hi>Honest men,</hi> he per<g ref="char:EOLhyphen"/>sisted to inquire if they <hi>were the Watch;</hi> and they saving they were not, he replied, then <hi>you are Rogues:</hi> Upon which one <hi>Jenkins,</hi> somewhat scurrilously, return'd a foolish ill-bred Phrase, <hi>Mine Ar— upon you.</hi> This so heated <hi>Duval,</hi> that he be<g ref="char:EOLhyphen"/>gan to swear he had a mind to cut them all to pieces, and that they deserved it for affronting of <hi>Gentlemen;</hi> and to make good his words, drew his Sword, but by the mediation of one of the Company, a lame man, who happened to know him, he put it up again, and delivered it to the woman he led, and went away some small distance; but swearing terribly all the while, and presently in a fury return'd, offering to fight
+<pb n="2" facs="tcp:204736:2"/>with any of them; and while he was a quarrelling with them, <hi>Tompson, Duval's</hi> Comrade, drew his Sword, and made at the other men; and the said <hi>Jenkins</hi> seeing him coming, and the lame man to be in danger, caught away his Crutch to keep off the Sword; but <hi>Tompson</hi> following his passes after <hi>Jenkins,</hi> who retreated, and by the unevenness of the ground sell down, he run him into the Belly, whereof he im<g ref="char:EOLhyphen"/>mediately died. So that they both being concern'd in the Quarrel, and <hi>Duval</hi> aiding and abetting the Murther, and no Weapon drawn or blow struck by the other Party, they were both found guilty of the Murther; and their two women who came in a Witnesses to excuse them, being persons of Ill fame, were Committed.</p>
+            <p>Two men, one of them an House-keeper in <hi>London</hi> hard by the Church at <hi>London</hi>-stone, were found guilty of stealing between four and five hundred weight of L<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> off from the said Church; to which his house was so near, that by laying a Board from his window they could easily get upon the roof of the Church, where this Lead lay in sheets rol'd up ready for use; but the noise being heard by some of the Watch, they were taken in the manner, and some of the Lead found in his house. There was another young fellow a Shoemaker indicted with them; but he appearing to have been drawn in by the others, and that he had always heretofore behaved him<g ref="char:EOLhyphen"/>self honestly, he was Acquitted.</p>
+            <p>One <hi>Abigail Haius,</hi> charged but two Sessions ago for Firing an Ironmongers house that was then her Master, but for want of full Evidence, and for that he Fire was happily seen and prevented, without much damage, she then got off; but now was Indicted for another Exploit: coming to live as a Maid-servant with one <hi>Blagrave,</hi> a pretender to Physick, in <hi>Clarken well;</hi> she had not been there above three days, but she took an opportunity to Rob him of a Gold-Chain and Medal, a Watch, di<g ref="char:EOLhyphen"/>vers pieces of Plate, several rich Cloaths, some Money, <hi>&amp;c.</hi> in the whole to a very considerable value; But upon diligent search after her, she was apprehended and had before the Justice, confess'd the Robbery, and so was now Convicted.</p>
+            <p>A Man and four Women were Indicted for Stealing of Goods: being met with them in a suspicious manner in the Fields, very early one morning, by certain honest men, they seiz'd them, and on inquity found they had robb'd a woman that was a Quaker, who would not prosecute her self, but got a Friend to be bound to do it: but by reason of the said Quakers refusing to give evidence, there not being at pre<g ref="char:EOLhyphen"/>sent sufficient proof against the Prisoners, the Jury was discharg'd of them, and order given to make their She-friend appear next Sessions; which if she were not free to do, then is she to be cast into Bonds.</p>
+            <p>A Cooks Girl was found guilty for robbing her Mistriss, by breaking open a Trunk, and taking away a large parcel of broad pieces of Gold, Guinnies, Rings, and other things of value, and then locking the door, and leaving the Key at a Neigh<g ref="char:EOLhyphen"/>bours, fled; but was soon apprehended, and acknowledged the Fact.</p>
+            <p>On Wednesday in the afternoon, a Gentleman of Quality received his Tryal, for killing another that was his Kinsman, in the <hi>Temple-lane;</hi> the circumstances appea<g ref="char:EOLhyphen"/>red to be thus: That the Prisoner being with some Gentlemen at the <hi>Devil Tavern</hi> in the evening, the Captain since killed, with some others, came into their Compa<g ref="char:EOLhyphen"/>ny, where he seemed much discontented, and pulling out a few shillings, said, that was all he had left of 200 <hi>l.</hi> in a few days space; intimating, that he had been at play; and proposed to go to play with any of the Company, but all declined it: then he demanded four pound, that he said the now Prisoner should owe him; who declared, that he knew nothing of it; and the other insisted, that he did owe him so much, by the same token that such another Gentleman, then in the Company at the same time, ow'd him 15 <hi>s.</hi> but that other Gentleman affirmed he knew no<g ref="char:EOLhyphen"/>thing either of the one or the other, which put the Captain into a farther passion; but the Prisoner generously told him, they would talk of this Debt on the morrow,
+<pb n="3" facs="tcp:204736:2"/>and if he could make it appear, he would readily pay him, and so they seemed to be made good friends, and the Company broke up, the Prisoner going first, and the Captain following, was seen to take him by the hand, and embrace him with the rest of the Company, thinking to be in kindness, they did not much observe them further, till missing them in the street, within two or three minutes, about half a score yards down the <hi>Temple-lane,</hi> they found them on the ground, the Prisoner uppermost, both their Swords drawn, but the Captains out of his hand lying by him, and he mortally wounded, whereof within few days he dy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; but first with a most Christian and commendable charity, he both to the Minister who Administred the Sacrament to him, and to the Woman of the House where he lay, and to several Gentlemen, who all testified the same, did freely acknowledge, that his Death was occasioned by his own rashness; that he inticed down the Prisoner (whom he confessed to have been the best friend he ever had in the world) into the Lane, and then drew upon him, without any provocation, who defending him<g ref="char:EOLhyphen"/>self, this Accident hapned; upon which proof from his own mouth, and for that there was not the least colour of any prepensed grudg, and that the Prisoner himself was also wounded, the Jury could not find it any more than Manslaughter, for which he immediately took his Clergy, and was admitted to Bail, till he might pro<g ref="char:EOLhyphen"/>cure a Pardon, in form, as to the Burning in the hand.</p>
+            <p>Four young Gentlemen Scholars of <hi>Westminster</hi> School, charged with killing a Bailey that came to make an Arrest near that School, which they pretend priviledg'd from such attempts, should likewise have have tryed this Sessions; but the Coroner declaring, that the Kings Evidence was not ready, and that there were about seven more of the Scholars supposed to be concerned in the Fact, who absconded, they were put off till the next Sessions; and in the mean time, after some mature con<g ref="char:EOLhyphen"/>sideration of their Youth and Quality, to prevent the inconveniencies that might attend their continuing so long amongst ill company in custody, were admitted to extraordinary Bail.</p>
+            <p>One <hi>Goddin,</hi> (formerly a Barber) a notorious Highway-man and Thief. Captain of a Gang, who by way of Reverence usually called him <hi>Daddy,</hi> was Indicted for a Felony in <hi>London,</hi> which appeared to be a Burglary in a person of Qualities House in <hi>Buckinghamshire,</hi> where he and four or five more calling in the evening by a coun<g ref="char:EOLhyphen"/>terfeit voice and name, got the door open, rusht in, and took away a very conside<g ref="char:EOLhyphen"/>rable Booty in Money, Plate, <hi>&amp;c.</hi> The chief Evidence was one of his own gang, who was with him there, and set forth many other Burglaries, Robberies on the High<g ref="char:EOLhyphen"/>way, <hi>&amp;c.</hi> they had engaged in together; some of the Plate was taken in <hi>Redcross-street;</hi> but it not appearing that the Prisoner carried it thither, or brought any of it farther then <hi>Southwark,</hi> it could be no Felony in <hi>London;</hi> so he was set by in order to Tryal next Assizes for <hi>Buckingham:</hi>
+            </p>
+            <p>One Mr. <hi>Abel Bethsorrel</hi> was Arraigned for taking away a great parcel of Goods out of a Womans house in St. <hi>Martins,</hi> in the day time, and the Witnesses swore it roundly; but when the Prisoner came to make his defence, produced a Bill of Sale under her hand and Seal, for those and all other her Goods for 20 <hi>l.</hi> which she could not disown, so that the prosecution was declared to be wholly malicious, and he honourably acquitted.</p>
+            <p>
+               <hi>Jane Byworth,</hi> an old shop-lift, and not long since burnt in the hand, was tryed for stealing a piece of Ribbon; her Gallant who was with her in the shop, and committed, but since bailed out, had confessed it, and offered Composition for her; but he not appearing, and for that possibly he might do it himself without her knowledge, the Jury was favourable, and brought her in not guilty. So they did likewise one <hi>Mary Bolds,</hi> charged with picking five pounds out of a womans pocket near the Monument, but she would not swear directly the Prisoner had it.</p>
+            <pb n="4" facs="tcp:204736:3"/>
+            <p>
+               <hi>Edward Swinney</hi> and Mr. <hi>Henry Harrison,</hi> were tryed for killing one <hi>Jones,</hi> a Baylies Follower in <hi>Lincolns-Inn-fields,</hi> on the 8th. of <hi>August:</hi> A Bill of <hi>Middlesex</hi> be<g ref="char:EOLhyphen"/>ing brought to the Sheriff, and thereupon a Warrant granted against <hi>Harrison,</hi> for 60 <hi>l.</hi> owing to a Tailor; one of the Sheriffs-Baylies, and five. Followers or Assist<g ref="char:EOLhyphen"/>ants waited to take him, who came out of his dwelling in <hi>Lincolns Inn-fields</hi> in the afternoon, accompanied with <hi>Swinney</hi> the prisoner, and another <hi>Swinney</hi> his Brother, who is not taken; but Mr. <hi>Harrison</hi> (as 'tis thought) perceiving the Baylies struck out of the path, and hastned down to recover <hi>Lincolns-Inn</hi> back-gate, near which he made a stand, and the Baylies did not think fit to attack him there; but one of them, named <hi>Jones,</hi> turned down towards <hi>Shire</hi>-Lane, upon which <hi>Harrison</hi> call'd to him, and with Oaths and ill-Names said, they were Baylies that dogged him, and called to the other two, to draw their Swords and kill them: hereupon, the Chief Baylie (as they all swore) gave him the words of the Arrest, and desired him to obey the King's Writ; but instead thereof, they came on with their Swords, and the said <hi>Jones</hi> engaging with <hi>Swinney,</hi> the Prisoner was by him slain: This was what the five Bayliffs now swore; and 'twas observable, that there were no Wit<g ref="char:EOLhyphen"/>nesses for the King but they; who likewise swore they had but two Swords amongst them. But for the Prisoners, several Witnesses testified, that the said <hi>Jones</hi> first assaulted <hi>Swinney,</hi> and that they heard no words of Arrest, and that the Baylies had four Swords drawn. The Case seem'd to lye very hard on the Prisoners; the Writ and Warrant were proved: Five Bayliffs swore they did give <hi>Harrison</hi> the words of Arrest; and if so, the Killing of <hi>Jones</hi> in execution thereof must needs be Murder. But whether the Jury did not think fit to credit them, so it was, they only found the Prisoners guilty of Man-slaughter, who praying their Clergy, were Burnt in the Hand. And because the Court highly resented their Crime, thought it too much extenuated, they Committed them both back again to <hi>New<g ref="char:EOLhyphen"/>gate,</hi> for Eleven Months, without Bail or Mainprize.</p>
+            <p>One <hi>Tho. Laurence</hi> a Waterman, having on the 18th. of <hi>March</hi> was twelve<g ref="char:EOLhyphen"/>month, killed one <hi>Tho. Palmer</hi> at <hi>Chiswick,</hi> with a blow on the head with a stretcher, in a fray, was likewise burnt in the hand.</p>
+            <p>A Carpenter was Indicted for Robbing a poor Woman, keeping a Cooks shop in <hi>Magpy-yard,</hi> by breaking open a Trunk, where he and another were supposed to Dine; but she having never seen him but that time, till she apprehended him on sus<g ref="char:EOLhyphen"/>pition, and he proving by five Witnesses, that he was all that day at work, at Justice <hi>Riches</hi> over the water, was acquitted.</p>
+            <p>There were in all Five persons that received Sentence of Death, <hi>viz. Tho. Thomp<g ref="char:EOLhyphen"/>son,</hi> and <hi>Peter du Val,</hi> for the Murther before-mentioned: <hi>Richard Wheeler,</hi> guilty by his own Confession of two Indictments, one for stealing a bay-Mare, and the other for a Sword, Coat, Boots, 57 <hi>s.</hi> in Money, and several other Goods at <hi>Totnam: Abigal Haines,</hi> for Robbing Doctor <hi>Blagrave</hi> her Master: and <hi>Margaret Taylor,</hi> a Girl, for Robbing her Mistriss, and refusing to tell what she had done with the Gold and Goods stollen.</p>
+            <p>There were also Seven Burnt in the Hand, Mr. <hi>Swinney,</hi> Mr. <hi>Harrison,</hi> and <hi>Tho. Lawrence,</hi> for Manslaughter; <hi>Joseph Sharp</hi> and <hi>Tho. Cornwell,</hi> for Stealing of Lead from the Church. <hi>Tho. Dodd</hi> and <hi>Edw. Hardy,</hi> for several Felonies.</p>
+            <p>Besides these, there were no fewer than Six and Thirty Men and Women, that within these Six Moneths last had been Condemned to Dye, and had obtain'd Re<g ref="char:EOLhyphen"/>prieves, who now all did on their Knees plead his Majesties General Gracious Par<g ref="char:EOLhyphen"/>don, on Condition of Transportation; among whom was one <hi>John Morgan,</hi> Con<g ref="char:EOLhyphen"/>demned the second of <hi>May</hi> last for being a Popish Priest; who could very hardly be brought to accept of this Pardon, or to Kneel whilst it was read, alledging that he had committed no Crime, needed no Pardon, had not sued for this, <hi>&amp;c.</hi> But as before, the Testimony of Doctor <hi>Oates</hi> and others that he was sometimes maddish, got him into the Pardon, so now the consideration thereof excused his extravagancy.</p>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:204736:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
